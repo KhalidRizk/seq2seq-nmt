@@ -38,6 +38,7 @@ Seq2Seq(
 The model was trained using the Adam optimizer. The loss function is cross-entropy loss. The model is trained for a maximum of 25 epochs with a batch size of 32. The model was trained for 8 epochs, and early stopping was applied if the validation loss did not improve for 2 consecutive epochs.
 
 Here are the training results:
+
 ![](results.png)
 
 
